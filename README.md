@@ -24,4 +24,6 @@ I'll change the code when the time comes.
     2. ~~Add code.gs to the project~~
 3. Go to this https://goo.gl/HHeuod
 4. Click the super familiar triangle shape button to run the only function.
+
+    You should be prompted for permission to manage your contact, and if you trust me (well, you should), just approve the permission.
 5. Re-check and sync your Google contact to your phone.
