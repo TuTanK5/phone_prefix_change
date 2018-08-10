@@ -1,15 +1,25 @@
 # phone_prefix_change
-Change phone number prefix in Google contact list accordingly to new Vietnam mobile phone policy
+(Dualingual, loosely)
+Đổi đầu số điện thoại di động Việt Nam 2018, dùng cho **Google contact**.
+https://thanhnien.vn/cong-nghe/doi-tu-11-sang-10-so-thue-bao-di-dong-dung-dau-so-nao-967642.html
+_____________________________________________
+Change phone number prefix in **Google contact** accordingly to new Vietnam mobile phone policy.
+http://english.vietnamnet.vn/fms/science-it/201479/11-digit-phone-numbers-to-be-switched-to-10-digits.html
 
 # To fellow devs
+- Fork về quẩy vô tư đi các thím.
+_____________________________________________
 - This code is so simple it is self-explanatory.
 - It works, but it's primitive, improve it if you may. 
 
-    (It doesn't actually work NOW, only works for 'test...' contacts, as the policy will not be applied until Sep 2018 or so)
+(It doesn't actually work NOW, only works for 'test...' contacts, as the policy will not be applied until Sep 2018 or so)
 - Feel free to create pull request or raise issues.
 
-# How-to (for those who are not devs and those who are too lazy to care)
+# Hướng dẫn sử dụng / How-to (for those who are not devs and those who are too lazy to care)
 
+
+
+_____________________________________________
 It doesn't actually work NOW, only works for 'test...' contacts, as the policy will not be applied until Sep 2018 or so.
 
 I'll change the code when the time comes.
