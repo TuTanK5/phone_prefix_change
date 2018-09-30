@@ -12,18 +12,26 @@ _____________________________________________
 - This code is so simple it is self-explanatory.
 - It works, but it's primitive, improve it if you may. 
 
-(It doesn't actually work NOW, only works for 'test...' contacts, as the policy will not be applied until Sep 2018 or so)
+~~(It doesn't actually work NOW, only works for 'test...' contacts, as the policy will not be applied until Sep 2018 or so)~~
 - Feel free to create pull request or raise issues.
 
 # Hướng dẫn sử dụng / How-to (for those who are not devs and those who are too lazy to care)
 
 
+~~It doesn't actually work NOW, only works for 'test...' contacts, as the policy will not be applied until Sep 2018 or so.
+I'll change the code when the time comes.~~
+1. Đồng bộ Danh bạ từ điện thoại lên Google contact.
+2. Sao lưu.
 
+    Nhờ ai đó làm dùm nếu bạn không biết cách làm bước 1 và 2.
+
+3. Đến link này: https://goo.gl/HHeuod
+4. Nhấn nút Play/Run (nút tam giác)
+
+    Script sẽ yêu cầu quyền truy cập danh bạ, nhấn Đồng ý/ Cho phép.
+    
+5. Kiểm tra và đồng bộ danh bạ từ Google contact về điện thoại.
 _____________________________________________
-It doesn't actually work NOW, only works for 'test...' contacts, as the policy will not be applied until Sep 2018 or so.
-
-I'll change the code when the time comes.
-
 1. Sync contacts from your phone to Google contact.
 2. Backup contacts.
 
