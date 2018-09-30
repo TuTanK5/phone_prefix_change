@@ -8,7 +8,6 @@ function phone_prefix_change(){
     var contact = contacts[i]
     if (contact != null && contact.getFullName() != '')
     {
-      if (contact.getFullName().indexOf('test') == 0){
         Logger.log(contact.getFullName())
         
         all_phones = contact.getPhones()
@@ -31,7 +30,6 @@ function phone_prefix_change(){
           }
           Logger.log('To %s', phoneno)
           all_phones[j].setPhoneNumber(phoneno)
-        }
       }
     }
   }
